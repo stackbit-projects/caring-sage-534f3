@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Familiar
-        subtitle: For you and your family members
+        subtitle: Para ti y todos tus seres queridos
         title_align: left
         content: |-
           ---
