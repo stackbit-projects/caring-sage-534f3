@@ -55,7 +55,7 @@ sections:
           por los mejores resultados
         content_align: left
         actions:
-          - label: Empezar ahora
+          - label: Empezar aora
             url: /thank-you
             style: primary
         actions_align: left
