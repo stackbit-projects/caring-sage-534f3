@@ -48,9 +48,9 @@ sections:
         image_position: top
       - title: El match perfecto
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          Nuestra app se sincroniza de manera perfecta entre Android y IOS, con
+          lo cual podrás compartir con tus amigos tu proceso de transformación
         content_align: left
         actions:
           - label: Learn More
