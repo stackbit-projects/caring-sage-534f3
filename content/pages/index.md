@@ -31,7 +31,7 @@ sections:
         title_align: left
         content: >
           Te ayudamos a diseñar un plan nutricional de acuerdo a tus necesidades
-          y te acompañamos en el proceso para lograr tus metas nutricionales 
+          y te acompañamos en el proceso para lograr tus metas 
         content_align: left
         actions:
           - label: Learn More
