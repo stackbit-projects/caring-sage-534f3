@@ -9,7 +9,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Personal
-        subtitle: Just for you
+        subtitle: Por y para ti
         title_align: left
         content: |-
           ---
