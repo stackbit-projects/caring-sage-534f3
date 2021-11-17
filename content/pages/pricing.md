@@ -63,18 +63,18 @@ sections:
       - title: Entre patas
         subtitle: Para ti y tus amigos mas cercanos
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### S/ 40
 
-          per month, billed yearly
+          por mes 
 
-          * Unlimited calendars
-          * Unlimited task list integrations
-          * Project-based color coding
-          * Scheduled notifications
-          * Task delegation
+          *   Hasta 10 dispositovs 
+          *   Información nutricional 24/7
+          *   Planes diseñados de acuerdos a sus necesidades individuales 
+          *   Promociones y descuentos exclusivos 
+          *   Ingreso especial a compartir y competir entre todos los miembros 
         content_align: left
         actions:
           - label: Start with Business
