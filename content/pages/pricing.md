@@ -33,18 +33,26 @@ sections:
       - title: Familiar
         subtitle: Para ti y todos tus seres queridos
         title_align: left
-        content: |-
-          ---
+        content: >
+          ***
 
-          ### $19
 
-          per month, billed yearly
+          ### s/ 19
 
-          * Shared calendar integrations
-          * Unlimited task lists
-          * Synchronized reminders
-          * Shared badgets
-          * Up to 5 devices
+
+          por mes 
+
+
+          *   Hasta 5 dispositivos en uso
+
+          *   Información nutricional 24/7
+
+          *   Plan diseñado de acuerdo a sus necesidades individuales 
+
+          *   Promociones y descuentos especiales 
+
+          *   Ingreso especial a compartir y compartir entre todos por los
+          mejores resultados
         content_align: left
         actions:
           - label: Start with Family
