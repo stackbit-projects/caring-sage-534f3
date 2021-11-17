@@ -5,8 +5,8 @@ sections:
     title: FIT Nutrition
     subtitle: Comer sano nunca fue tan fácil.
     content: >
-      Fit Nutrition reúne toda la información más relevante para que lleves una
-      vida mas saludable 
+      Fit Nutrition reúne toda la información necesaria  para que lleves una
+      vida mas saludable
     actions:
       - label: App Store
         url: /pricing
