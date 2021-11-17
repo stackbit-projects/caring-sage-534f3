@@ -67,9 +67,11 @@ sections:
         image_position: top
       - title: La información que necesitas siempre a tu alcance
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          En FIT Nutrition creemos en la importancia de la información, por ello
+          contamos con un proceso automatizado de recopilación de datos
+          nutricionales con la finalidad de mantenerte siempre informado sobre
+          los estudios y noticias mas relevantes de la cultura FIT 
         content_align: left
         actions:
           - label: Learn More
