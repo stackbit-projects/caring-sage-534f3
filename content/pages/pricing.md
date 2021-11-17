@@ -85,7 +85,7 @@ sections:
           por los mejores resultados 
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Empezar ahora
             url: /thank-you
             style: primary
         actions_align: left
