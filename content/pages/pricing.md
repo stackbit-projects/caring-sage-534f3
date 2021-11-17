@@ -53,7 +53,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Entre patas
-        subtitle: For your entire team
+        subtitle: Para ti y tus amigos mas cercanos
         title_align: left
         content: |-
           ---
