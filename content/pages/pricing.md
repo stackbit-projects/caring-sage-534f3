@@ -11,18 +11,18 @@ sections:
       - title: Personal
         subtitle: Por y para ti
         title_align: left
-        content: |-
-          ---
+        content: |+
+          ***
 
-          ### $9
+          ### S/ 9
 
-          per month, billed yearly
+          por mes
 
-          * Up to 3 calendar integrations
-          * Up to 2 task lists
-          * Color coded notifications
-          * Up to 2 devices
-          * Productivity reporting
+          *   hasta 2 dispositivos en uso
+          *   Información nutricional 24/7
+          *   Plan nutricional diseñado a tus necesidades
+          *   Promociones y descuentos especiales 
+
         content_align: left
         actions:
           - label: Start with Personal
