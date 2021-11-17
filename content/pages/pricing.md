@@ -25,7 +25,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Empezar ahora
             url: /thank-you
             style: primary
         actions_align: left
