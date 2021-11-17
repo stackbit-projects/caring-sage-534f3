@@ -40,19 +40,19 @@ sections:
           ### s/ 19
 
 
-          por mes 
+          por mes
 
 
           *   Hasta 5 dispositivos en uso
 
           *   Información nutricional 24/7
 
-          *   Plan diseñado de acuerdo a sus necesidades individuales 
+          *   Plan diseñado de acuerdo a sus necesidades individuales
 
-          *   Promociones y descuentos especiales 
+          *   Promociones y descuentos especiales
 
-          *   Ingreso especial a compartir y compartir entre todos por los
-          mejores resultados
+          *   Ingreso especial a compartir y compartir entre todos los miembros
+          por los mejores resultados
         content_align: left
         actions:
           - label: Start with Family
