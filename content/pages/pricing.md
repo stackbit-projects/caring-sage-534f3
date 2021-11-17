@@ -63,18 +63,26 @@ sections:
       - title: Entre patas
         subtitle: Para ti y tus amigos mas cercanos
         title_align: left
-        content: |
+        content: >
           ***
+
 
           ### S/ 40
 
-          por mes 
 
-          *   Hasta 10 dispositovs 
+          por mes
+
+
+          *   Hasta 10 dispositovs
+
           *   Información nutricional 24/7
-          *   Planes diseñados de acuerdos a sus necesidades individuales 
-          *   Promociones y descuentos exclusivos 
-          *   Ingreso especial a compartir y competir entre todos los miembros 
+
+          *   Planes diseñados de acuerdos a sus necesidades individuales
+
+          *   Promociones y descuentos exclusivos
+
+          *   Ingreso especial a compartir y competir entre todos los miembros
+          por los mejores resultados 
         content_align: left
         actions:
           - label: Start with Business
